@@ -1,0 +1,2 @@
+# Student-record-management-system-
+This is a student record management system project, which enables you to create, read, modify, and delete student records. It is a C++ programme for educational establishments to manage student data. This system is based on a concept that stores and generates all the records of the students. This programme has a simple database of students for a school where the user can add student details safely, and it’s not time-consuming. This system makes it easy to store records of each.
